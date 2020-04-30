@@ -1,2 +1,0 @@
-# vavas
-About me
