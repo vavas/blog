@@ -14,7 +14,7 @@ timezone:
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://vavas.github.io
-root: /vavas.github.io/
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -83,7 +83,7 @@ theme: cactus
 ## Docs: http://zespia.tw/hexo/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:vavas/vavas.github.io.git
+  repo: git@github.com:vavas/blog-assets.git
   branch: master
   message: Up to gh-pages
 
