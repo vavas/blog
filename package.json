@@ -5,6 +5,9 @@
   "hexo": {
     "version": "3.9.0"
   },
+  "scripts": {
+    "build": "hexo clean && hexo generate && hexo deploy"
+  },
   "dependencies": {
     "braces": "^3.0.2",
     "hexo": "^3.9.0",
