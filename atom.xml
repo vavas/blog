@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Vladimir Kryzhanovskyi</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://vavas.github.io/"/>
+  <updated>2020-05-01T14:04:22.623Z</updated>
+  <id>https://vavas.github.io/</id>
+  
+  <author>
+    <name>Vladimir Kryzhanovskyi</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Italian Friday</title>
+    <link href="https://vavas.github.io/2020/05/01/Italian-Friday/"/>
+    <id>https://vavas.github.io/2020/05/01/Italian-Friday/</id>
+    <published>2020-05-01T16:02:42.000Z</published>
+    <updated>2020-05-01T14:04:22.623Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
