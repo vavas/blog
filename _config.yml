@@ -83,7 +83,7 @@ theme: cactus
 ## Docs: http://zespia.tw/hexo/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:vavas/blog.git
+  repo: https://github.com/vavas/blog.git
   branch: master
   message: Up to gh-pages
 
